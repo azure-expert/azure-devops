@@ -1,2 +1,2 @@
-# azure-devops
-just a basic repository to keep the topics and projects related to this
+# Azure DevOps
+Para este repositóprio pretendo criar diversos projetos que estejam relacionados às práticas de Azure DevOps.
